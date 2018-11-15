@@ -6,5 +6,5 @@ For event names, see https://developer.github.com/webhooks/
 | Name           | Values                   |
 | ---------------|--------------------------|
 | WEBHOOK_SECRET | The webhook secret value |
-| WEBHOOK_BRANC  | A branch name            |
+| WEBHOOK_BRANCH | A branch name            |
 | WEBHOOK_SENDER | A GiHub username         |
