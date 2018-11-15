@@ -1,0 +1,9 @@
+---
+- event: create
+  branch: master
+  sender: Jleagle
+  run: script1
+- event: create
+  branch: master
+  sender: Jleagle
+  run: script2
