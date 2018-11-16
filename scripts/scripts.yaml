@@ -2,8 +2,8 @@
 - event: create
   branch: master
   sender: Jleagle
-  run: script1
+  run: touch x.txt
 - event: create
   branch: master
   sender: Jleagle
-  run: script2
+  run: touch y.txt
